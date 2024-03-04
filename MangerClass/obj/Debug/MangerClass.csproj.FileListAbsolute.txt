@@ -1,0 +1,10 @@
+D:\.NET C#\MangerClass\MangerClass\obj\Debug\MangerClass.csproj.AssemblyReference.cache
+D:\.NET C#\MangerClass\MangerClass\obj\Debug\MangerClass.ManagerClass.resources
+D:\.NET C#\MangerClass\MangerClass\obj\Debug\MangerClass.Properties.Resources.resources
+D:\.NET C#\MangerClass\MangerClass\obj\Debug\MangerClass.csproj.GenerateResource.cache
+D:\.NET C#\MangerClass\MangerClass\obj\Debug\MangerClass.csproj.CoreCompileInputs.cache
+D:\.NET C#\MangerClass\MangerClass\bin\Debug\MangerClass.exe.config
+D:\.NET C#\MangerClass\MangerClass\bin\Debug\MangerClass.exe
+D:\.NET C#\MangerClass\MangerClass\bin\Debug\MangerClass.pdb
+D:\.NET C#\MangerClass\MangerClass\obj\Debug\MangerClass.exe
+D:\.NET C#\MangerClass\MangerClass\obj\Debug\MangerClass.pdb

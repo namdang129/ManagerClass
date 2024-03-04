@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET C#\\MangerClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E54487C5-E555-4FFA-9A38-F1570CCE46A0}|MangerClass\\ManagerClass.csproj|d:\\.net c#\\mangerclass\\mangerclass\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54487C5-E555-4FFA-9A38-F1570CCE46A0}|MangerClass\\ManagerClass.csproj|solutionrelative:mangerclass\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54487C5-E555-4FFA-9A38-F1570CCE46A0}|MangerClass\\ManagerClass.csproj|D:\\.NET C#\\MangerClass\\mangerclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54487C5-E555-4FFA-9A38-F1570CCE46A0}|MangerClass\\ManagerClass.csproj|solutionrelative:mangerclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54487C5-E555-4FFA-9A38-F1570CCE46A0}|MangerClass\\ManagerClass.csproj|D:\\.NET C#\\MangerClass\\mangerclass\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54487C5-E555-4FFA-9A38-F1570CCE46A0}|MangerClass\\ManagerClass.csproj|solutionrelative:mangerclass\\main.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54487C5-E555-4FFA-9A38-F1570CCE46A0}|MangerClass\\ManagerClass.csproj|D:\\.NET C#\\MangerClass\\MangerClass\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E54487C5-E555-4FFA-9A38-F1570CCE46A0}|MangerClass\\ManagerClass.csproj|solutionrelative:MangerClass\\Main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E54487C5-E555-4FFA-9A38-F1570CCE46A0}|MangerClass\\ManagerClass.csproj|D:\\.NET C#\\MangerClass\\mangerclass\\info\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E54487C5-E555-4FFA-9A38-F1570CCE46A0}|MangerClass\\ManagerClass.csproj|solutionrelative:mangerclass\\info\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "D:\\.NET C#\\MangerClass\\MangerClass\\Main.cs",
+              "RelativeDocumentMoniker": "MangerClass\\Main.cs",
+              "ToolTip": "D:\\.NET C#\\MangerClass\\MangerClass\\Main.cs",
+              "RelativeToolTip": "MangerClass\\Main.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAmwNcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:23:25.927Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET C#\\MangerClass\\MangerClass\\Program.cs",
+              "RelativeDocumentMoniker": "MangerClass\\Program.cs",
+              "ToolTip": "D:\\.NET C#\\MangerClass\\MangerClass\\Program.cs",
+              "RelativeToolTip": "MangerClass\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwBIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:52:49.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\.NET C#\\MangerClass\\MangerClass\\Info\\Class.cs",
+              "RelativeDocumentMoniker": "MangerClass\\Info\\Class.cs",
+              "ToolTip": "D:\\.NET C#\\MangerClass\\MangerClass\\Info\\Class.cs",
+              "RelativeToolTip": "MangerClass\\Info\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T03:27:56.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Main.Designer.cs",
+              "DocumentMoniker": "D:\\.NET C#\\MangerClass\\MangerClass\\Main.Designer.cs",
+              "RelativeDocumentMoniker": "MangerClass\\Main.Designer.cs",
+              "ToolTip": "D:\\.NET C#\\MangerClass\\MangerClass\\Main.Designer.cs",
+              "RelativeToolTip": "MangerClass\\Main.Designer.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAwwNUAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T16:26:05.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs [Design]",
+              "DocumentMoniker": "D:\\.NET C#\\MangerClass\\MangerClass\\Main.cs",
+              "RelativeDocumentMoniker": "MangerClass\\Main.cs",
+              "ToolTip": "D:\\.NET C#\\MangerClass\\MangerClass\\Main.cs [Design]",
+              "RelativeToolTip": "MangerClass\\Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:21:00.661Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
